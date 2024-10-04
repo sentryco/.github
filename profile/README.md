@@ -16,3 +16,7 @@
 | [HoverMenu](https://github.com/sentryco/HoverMenu) | 📋 Provides a hover menu implementation for iOS and macOS | [![Tests](https://github.com/sentryco/HoverMenu/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/HoverMenu/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/HoverMenu?style=purple) |
 | [CameraView](https://github.com/sentryco/CameraView) | 📷 Simple CameraView to capture QR-codes for SwiftUI | [![Tests](https://github.com/sentryco/CameraView/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/CameraView/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/CameraView?style=purple) |
 | [BlurView](https://github.com/sentryco/BlurView) | 🎚️ BlurView for iOS and macOS | [![Tests](https://github.com/sentryco/BlurView/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/BlurView/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/BlurView?style=purple) |
+
+| [HapticFeedback](https://github.com/sentryco/BlurView) | 📳 Enhance your haptic brand | [![Tests](https://github.com/sentryco/HapticFeedback/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/HapticFeedback/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/HapticFeedback?style=purple) |
+
+
