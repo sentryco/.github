@@ -1,6 +1,6 @@
 ![iphone](https://github.com/user-attachments/assets/fb484938-8409-47ca-a8f4-f77d106f007d)
 
-Total stars: 
+Total stars:   
 ![GitHub User's stars](https://img.shields.io/github/stars/sentryco?style=plastic)
 
 ### In-house swift packages:
