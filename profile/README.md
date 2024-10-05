@@ -1,10 +1,10 @@
 ![iphone](https://github.com/user-attachments/assets/fb484938-8409-47ca-a8f4-f77d106f007d)
 
-![GitHub User's stars](https://img.shields.io/github/stars/sentryco?style=plastic&label=Total%20stars)
 ![mit](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![platform](https://img.shields.io/badge/Platform-iOS/macOS-blue.svg)
 ![Lang](https://img.shields.io/badge/Language-Swift%205-orange.svg)
 [![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift)
+![GitHub User's stars](https://img.shields.io/github/stars/sentryco?style=plastic&label=Total%20stars)
 
 ### In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
