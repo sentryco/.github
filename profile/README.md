@@ -33,6 +33,7 @@
 | [IAPManagerLib](https://github.com/sentryco/IAPManagerLib) | 🛍️ Lightweight In-App-Purchase library | [![Tests](https://github.com/sentryco/IAPManagerLib/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/IAPManagerLib/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/IAPManagerLib?style=purple) |
 | [OnboardKit](https://github.com/sentryco/OnboardKit) | ✈️ A clean toolkit for onboarding (iOS & macOS) | [![Tests](https://github.com/sentryco/OnboardKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/OnboardKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/OnboardKit?style=purple) |
 | [LockScreenView](https://github.com/sentryco/LockScreenView) | 🔒 Add lockability to your app | [![Tests][![Tests](https://github.com/sentryco/LockScreenView/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/LockScreenView/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/LockScreenView?style=purple) |
+| [SDUtil](https://github.com/sentryco/SDUtil) | 🗂 Makes SwiftData easier to work with | [![Tests](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SDUtil?style=purple) |
 
 ### Suplimentary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
