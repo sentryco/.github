@@ -34,6 +34,7 @@
 | [OnboardKit](https://github.com/sentryco/OnboardKit) | ✈️ A clean toolkit for onboarding (iOS & macOS) | [![Tests](https://github.com/sentryco/OnboardKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/OnboardKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/OnboardKit?style=purple) |
 | [LockScreenView](https://github.com/sentryco/LockScreenView) | 🔒 Add lockability to your app | [![Tests](https://github.com/sentryco/LockScreenView/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/LockScreenView/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/LockScreenView?style=purple) |
 | [SDUtil](https://github.com/sentryco/SDUtil) | 🗂 Makes SwiftData easier to work with | [![Tests](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SDUtil?style=purple) |
+| [SplitViewKit](https://github.com/sentryco/SplitViewKit) | 🗺️ Easily config multi-column apps (iPad and macOS) | [![Tests](https://github.com/sentryco/SplitViewKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SplitViewKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SplitViewKit?style=purple) |
 
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
