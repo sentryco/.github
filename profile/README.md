@@ -36,6 +36,7 @@
 | [SDUtil](https://github.com/sentryco/SDUtil) | 🗂 Makes SwiftData easier to work with | [![Tests](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SDUtil?style=purple) |
 | [SplitViewKit](https://github.com/sentryco/SplitViewKit) | 🗺️ Easily config multi-column apps (iPad and macOS) | [![Tests](https://github.com/sentryco/SplitViewKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SplitViewKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SplitViewKit?style=purple) |
 | [SideBarKit](https://github.com/sentryco/SideBarKit) | 🍫 Plug and play modular SideBar for macOS / iPad | [![Tests](https://github.com/sentryco/SideBarKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SideBarKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SideBarKit?style=purple) |
+| [SearchBarKit](https://github.com/sentryco/SearchBarKit) | 🔍 Sleek searchbar for iOS and macOS | [![Tests](https://github.com/sentryco/SearchBarKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SearchBarKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SearchBarKit?style=purple) |
 
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
