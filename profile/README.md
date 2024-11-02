@@ -40,6 +40,7 @@
 | [SecureInput](https://github.com/sentryco/SecureInput) | 🔐 Secure input UI (macOS / iOS) | [![Tests](https://github.com/sentryco/SecureInput/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecureInput/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SecureInput?style=purple) |
 | [SecUserStore](https://github.com/sentryco/SecUserStore) | 🪪 Secure user store | [![Tests](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SecUserStore?style=purple) |
 | [PersistenceKit](https://github.com/sentryco/PersistenceKit) | 💎 Persistence check for iOS / macOS | [![Tests](https://github.com/sentryco/PersistenceKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/PersistenceKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/PersistenceKit?style=purple) |
+| [AppConfigKit](https://github.com/sentryco/AppConfigKit) | 💎 Easily retain or reset app config | [![Tests](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/AppConfigKit?style=purple) |
 
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
