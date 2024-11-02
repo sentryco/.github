@@ -8,7 +8,7 @@
 
 ### In-house swift packages:
 | Package  | Description | Category | Tests | Codebeat | Stars |
-| :------------- | :------------- | :---- | :---- | :------ | :---- |
+| :------------- | :------------- | :---- | :-- | :------ | :---- |
 | [Logger](https://github.com/sentryco/Logger) | 📜 Simple console logger  | Data | [![Tests](https://github.com/sentryco/Logger/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Logger/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/1b701174-9272-4fc9-9de4-3e12af2094d6)](https://codebeat.co/projects/github-com-sentryco-logger-main) | ![platform](https://shields.io/github/stars/sentryco/Logger?style=purple) |
 | [Telemetry](https://github.com/sentryco/Telemetry) | 🔬 Bridge to google analytics | Data | [![Tests](https://github.com/sentryco/Telemetry/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Telemetry/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/5785dd6c-aa75-48a6-a222-0874b2b93e2c)](https://codebeat.co/projects/github-com-sentryco-telemetry-main) | ![platform](https://shields.io/github/stars/sentryco/Telemetry?style=purple) |
 | [UpgradeAlert](https://github.com/sentryco/UpgradeAlert) | 🔔 Easily update your app | Data | [![Tests](https://github.com/sentryco/UpgradeAlert/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/UpgradeAlert/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/3cf70bb0-e669-4ad2-b772-e76175cd23c1)](https://codebeat.co/projects/github-com-sentryco-upgradealert-main) | ![platform](https://shields.io/github/stars/sentryco/UpgradeAlert?style=purple) |
