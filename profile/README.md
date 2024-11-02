@@ -38,6 +38,7 @@
 | [SideBarKit](https://github.com/sentryco/SideBarKit) | 🍫 Plug and play modular SideBar for macOS / iPad | [![Tests](https://github.com/sentryco/SideBarKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SideBarKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SideBarKit?style=purple) |
 | [SearchBarKit](https://github.com/sentryco/SearchBarKit) | 🔍 Sleek searchbar for iOS and macOS | [![Tests](https://github.com/sentryco/SearchBarKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SearchBarKit/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SearchBarKit?style=purple) |
 | [SecureInput](https://github.com/sentryco/SecureInput) | 🔐 Secure input UI (macOS / iOS) | [![Tests](https://github.com/sentryco/SecureInput/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecureInput/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SecureInput?style=purple) |
+| [SecUserStore](https://github.com/sentryco/SecUserStore) | 🪪 Secure user store | [![Tests](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/SecUserStore?style=purple) |
 
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
