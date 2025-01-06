@@ -46,7 +46,8 @@
 | [Telemetric](https://github.com/sentryco/Telemetric) | 📡 Minimal GA4 telemetrics for iOS and macOS | [![Tests](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/7079731f-6d84-4a37-9713-2f29c65d1f05)](https://codebeat.co/projects/github-com-sentryco-telemetric-main) | ![platform](https://shields.io/github/stars/sentryco/Telemetric?style=purple) |
 | [CrashKit](https://github.com/sentryco/CrashKit) | 💥 Minimal crashlytics for iOS and macOS | [![Tests](https://github.com/sentryco/CrashKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/CrashKit/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/07327740-2f56-4b15-8e62-9f5f78543ffe)](https://codebeat.co/projects/github-com-sentryco-crashkit-main) | ![platform](https://shields.io/github/stars/sentryco/CrashKit?style=purple) |
 | [GridView](https://github.com/sentryco/GridView) | 📐 Gridify your UI | [![Tests](https://github.com/sentryco/GridView/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/GridView/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/GridView?style=purple) |
-
+| [GAMigration](https://github.com/sentryco/GAMigration) | 🎞️ Google authenticator migration | [![Tests](https://github.com/sentryco/GAMigration/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/GAMigration/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/sentryco/GAMigration?style=purple) |
+ 
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
 | :------------- | :------------- | :---- | :------ | :---- |
