@@ -9,6 +9,9 @@
 | [Telemetric](https://github.com/sentryco/Telemetric) | 📡 Minimal GA4 telemetrics for iOS and macOS | [![Tests](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/7079731f-6d84-4a37-9713-2f29c65d1f05)](https://codebeat.co/projects/github-com-sentryco-telemetric-main) | ![platform](https://shields.io/github/stars/sentryco/Telemetric?style=purple) |
 | [CrashKit](https://github.com/sentryco/CrashKit) | 💥 Minimal crashlytics for iOS and macOS | [![Tests](https://github.com/sentryco/CrashKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/CrashKit/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/07327740-2f56-4b15-8e62-9f5f78543ffe)](https://codebeat.co/projects/github-com-sentryco-crashkit-main) | ![platform](https://shields.io/github/stars/sentryco/CrashKit?style=purple) |
 
+<!--
+
+
  
 ### Supplementary In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
@@ -24,8 +27,6 @@
 | [ClipboardSugar](https://github.com/eonist/clipboardsugar) | 📋 Clipboard sugar for swift | [![Tests](https://github.com/eonist/clipboardsugar/actions/workflows/Tests.yml/badge.svg)](https://github.com/eonist/clipboardsugar/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/eonist/clipboardsugar?style=purple) |
 | [ResultSugar](https://github.com/eonist/ResultSugar) | 📦 Sugar for Result | [![Tests](https://github.com/eonist/ResultSugar/actions/workflows/Tests.yml/badge.svg)](https://github.com/eonist/ResultSugar/actions/workflows/Tests.yml) | N/A | ![platform](https://shields.io/github/stars/eonist/ResultSugar?style=purple) |
 
-
-<!--
 
 | [MockGen](https://github.com/sentryco/MockGen) | 🧪 Generate mock data for testing | [![Tests](https://github.com/sentryco/MockGen/actions/workflows/tests.yml/badge.svg)](https://github.com/sentryco/MockGen/actions/workflows/tests.yml) | [![codebeat badge](https://codebeat.co/badges/6f474052-1ae2-4c61-b72f-dcd23e442278)](https://codebeat.co/projects/github-com-sentryco-mockgen-main) | ![platform](https://shields.io/github/stars/sentryco/MockGen?style=purple) |
 
