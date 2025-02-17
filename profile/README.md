@@ -88,6 +88,14 @@
 | [E2EE](https://github.com/sentryco/E2EE) | 🛰️ Encrypt communication with E2EE | [![Tests](https://github.com/sentryco/E2EE/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/E2EE/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/ed625f6f-4a9d-41fd-9062-0125b74daf67)](https://codebeat.co/projects/github-com-sentryco-e2ee-main) | ![platform](https://shields.io/github/stars/sentryco/E2EE?style=purple) |
 
 | [LocalNotification](https://github.com/sentryco/LocalNotification) | ⚙️ Debugging background operations | [![Tests](https://github.com/sentryco/LocalNotification/actions/workflows/tests.yml/badge.svg)](https://github.com/sentryco/LocalNotification/actions/workflows/tests.yml) | [![codebeat badge](https://codebeat.co/badges/a0d953b9-586d-4f10-905f-b2992a9f4076)](https://codebeat.co/projects/github-com-sentryco-localnotification-main) | ![platform](https://shields.io/github/stars/sentryco/LocalNotification?style=purple) |
+
+| [SDUtil](https://github.com/sentryco/SDUtil) | 🗂 Makes SwiftData easier to work with | [![Tests](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SDUtil/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/58e29d7c-a0d9-41e8-bd88-2ad25eb2f373)](https://codebeat.co/projects/github-com-sentryco-sdutil-main) | ![platform](https://shields.io/github/stars/sentryco/SDUtil?style=purple) |
+
+| [PersistenceKit](https://github.com/sentryco/PersistenceKit) | 💎 Persistence check for iOS / macOS | [![Tests](https://github.com/sentryco/PersistenceKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/PersistenceKit/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/6cd2817d-e317-42ad-8363-c127361b27e5)](https://codebeat.co/projects/github-com-sentryco-persistencekit-main) | ![platform](https://shields.io/github/stars/sentryco/PersistenceKit?style=purple) |
+
+| [AppConfigKit](https://github.com/sentryco/AppConfigKit) | ⚙️ Easily retain or reset app config | [![Tests](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/721b9659-867c-436c-8f0c-ff349ed61939)](https://codebeat.co/projects/github-com-sentryco-appconfigkit-main) | ![platform](https://shields.io/github/stars/sentryco/AppConfigKit?style=purple) |
+
+
 -->
 
 
