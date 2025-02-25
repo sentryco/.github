@@ -1,5 +1,7 @@
 ![iphone](https://github.com/user-attachments/assets/fb484938-8409-47ca-a8f4-f77d106f007d)
 
+[![External tests](https://github.com/sentryco/ExternalGA/actions/workflows/External_tests.yml/badge.svg)](https://github.com/sentryco/ExternalGA/actions/workflows/External_tests.yml)
+
 ### In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
 | :------------- | :------------- | :---- | :------ | :---- |
