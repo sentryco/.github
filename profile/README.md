@@ -5,7 +5,6 @@
 ### In-house swift packages:
 | Package  | Description | Tests | Codebeat | Stars |
 | :------------- | :------------- | :---- | :------ | :---- |
-| [NetTime](https://github.com/sentryco/NetTime) | 🕑 Network time synchronization | [![Tests](https://github.com/sentryco/NetTime/actions/workflows/tests.yml/badge.svg)](https://github.com/sentryco/NetTime/actions/workflows/tests.yml) | [![codebeat badge](https://codebeat.co/badges/5d08d45f-5080-479c-88a5-d2621eac1eb6)](https://codebeat.co/projects/github-com-sentryco-nettime-main) | ![platform](https://shields.io/github/stars/sentryco/NetTime?style=purple) |
 | [UpgradeAlert](https://github.com/sentryco/UpgradeAlert) | 🔔 Easily update your app | [![Tests](https://github.com/sentryco/UpgradeAlert/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/UpgradeAlert/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/3cf70bb0-e669-4ad2-b772-e76175cd23c1)](https://codebeat.co/projects/github-com-sentryco-upgradealert-main) | ![platform](https://shields.io/github/stars/sentryco/UpgradeAlert?style=purple) |
 | [Logger](https://github.com/sentryco/Logger) | 📜 Simple console logger | [![Tests](https://github.com/sentryco/Logger/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Logger/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/1b701174-9272-4fc9-9de4-3e12af2094d6)](https://codebeat.co/projects/github-com-sentryco-logger-main) | ![platform](https://shields.io/github/stars/sentryco/Logger?style=purple) |
 | [Telemetric](https://github.com/sentryco/Telemetric) | 📡 Minimal GA4 telemetrics for iOS and macOS | [![Tests](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/Telemetric/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/7079731f-6d84-4a37-9713-2f29c65d1f05)](https://codebeat.co/projects/github-com-sentryco-telemetric-main) | ![platform](https://shields.io/github/stars/sentryco/Telemetric?style=purple) |
@@ -95,6 +94,7 @@
 
 | [AppConfigKit](https://github.com/sentryco/AppConfigKit) | ⚙️ Easily retain or reset app config | [![Tests](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/AppConfigKit/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/721b9659-867c-436c-8f0c-ff349ed61939)](https://codebeat.co/projects/github-com-sentryco-appconfigkit-main) | ![platform](https://shields.io/github/stars/sentryco/AppConfigKit?style=purple) |
 
+| [NetTime](https://github.com/sentryco/NetTime) | 🕑 Network time synchronization | [![Tests](https://github.com/sentryco/NetTime/actions/workflows/tests.yml/badge.svg)](https://github.com/sentryco/NetTime/actions/workflows/tests.yml) | [![codebeat badge](https://codebeat.co/badges/5d08d45f-5080-479c-88a5-d2621eac1eb6)](https://codebeat.co/projects/github-com-sentryco-nettime-main) | ![platform](https://shields.io/github/stars/sentryco/NetTime?style=purple) |
 
 -->
 
